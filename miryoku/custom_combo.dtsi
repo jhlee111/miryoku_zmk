@@ -1,4 +1,3 @@
-/dts-v1/;
 / {
     combos {
         compatible = "zmk,combos";

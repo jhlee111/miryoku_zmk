@@ -14,7 +14,7 @@ U_NP,              U_NP,              U_LT(U_MEDIA, ESC),U_LT(U_NAV, RET),U_LT(U
         combo_language_switch {
             timeout-ms = <50>;
             bindings = <&kp F13>;
-            key-positions = <26 27>; // Replace with your specific key positions
+            key-positions = <26 27>;
         };
     };
 };

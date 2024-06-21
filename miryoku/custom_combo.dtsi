@@ -4,7 +4,7 @@
 
         combo_language_switch {
             timeout-ms = <50>;
-            bindings = <&kp F1>;
+            bindings = <&kp F13>;
             key-positions = <31 32>;
         };
     };
